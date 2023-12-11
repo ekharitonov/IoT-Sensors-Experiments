@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageGroupManager xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <languageGroupList>
+    <LanguageGroup>
+      <groupName>mainWindow</groupName>
+      <groupDesc>主窗口</groupDesc>
+      <languageDicList>
+        <LanguageDic>
+          <key />
+          <value />
+        </LanguageDic>
+        <LanguageDic>
+          <key>文件(_F)</key>
+          <value>File(_F)</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>退出(_X)</key>
+          <value>Quit(_X)</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>工具(_T)</key>
+          <value>Tool(_T)</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>计算器(_C)</key>
+          <value>Calculator(_C)</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>选项(_O)</key>
+          <value>Option(_O)</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>字节编码</key>
+          <value>Encoding</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>ASCII</key>
+          <value>ASCII</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>UTF-8</key>
+          <value>UTF-8</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>Unicode</key>
+          <value>Unicode</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>UTF-32</key>
+          <value>UTF-32</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>RtsEnable</key>
+          <value>RtsEnable</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>DtrEnable</key>
+          <value>DtrEnable</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>流控制</key>
+          <value>Flow control</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>None</key>
+          <value>None</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>Hardware</key>
+          <value>Hardware</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>XOnXOff</key>
+          <value>XOnXOff</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>Hardware and XOnXOff</key>
+          <value>Hardware and XOnXOff</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>发送换行</key>
+          <value>Send newline</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>CR</key>
+          <value>CR</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>LF</key>
+          <value>LF</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>CR LF</key>
+          <value>CR LF</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>视图(_V)</key>
+          <value>View(_V)</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>精简视图</key>
+          <value>Condensed view</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>风格(_S)</key>
+          <value>Style(_S)</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>黑色风格</key>
+          <value>Black style</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>白色风格</key>
+          <value>White style</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>多开(_M)</key>
+          <value>Open more(_M)</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>Condensed view</key>
+          <value>Condensed view</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>Black style</key>
+          <value>Black style</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>White style</key>
+          <value>White style</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>View(_V)</key>
+          <value>View(_V)</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>Style(_S)</key>
+          <value>Style(_S)</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>Open more(_M)</key>
+          <value>Open more(_M)</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>Quit(_X)</key>
+          <value>Quit(_X)</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>Calculator(_C)</key>
+          <value>Calculator(_C)</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>Encoding</key>
+          <value>Encoding</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>Flow control</key>
+          <value>Flow control</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>Send newline</key>
+          <value>Send newline</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>File(_F)</key>
+          <value>File(_F)</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>Tool(_T)</key>
+          <value>Tool(_T)</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>Option(_O)</key>
+          <value>Option(_O)</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>风格</key>
+          <value>风格</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>清空计数</key>
+          <value>Clear count</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>清接收区</key>
+          <value>Clear receiving area</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>Hex接收</key>
+          <value>Hex receiving</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>显示发送接收</key>
+          <value>Show send and receive</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>保存接收</key>
+          <value>Save and receive</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>路径选择</key>
+          <value>Path Selection</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>串口</key>
+          <value>Serial port</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>串口号：</key>
+          <value>Port：</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>波特率：</key>
+          <value>Baud：</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>信号状态</key>
+          <value>Signal state</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>DCD</key>
+          <value>DCD</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>CTS</key>
+          <value>CTS</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>DSR</key>
+          <value>DSR</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>Udp</key>
+          <value>Udp</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>本地IP端口：</key>
+          <value>Local IP port：</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>远程IP端口：</key>
+          <value>Remote IP port：</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>Tcp_Server</key>
+          <value>Tcp_Server</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>Tcp_Client</key>
+          <value>Tcp_Client</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>Hex发送</key>
+          <value>Hex Send</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>加CRC16校验</key>
+          <value>Add CRC16 check </value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>单项发送</key>
+          <value>Single send</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>自动发送(ms)</key>
+          <value>Automatic delivery(ms)</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>发送</key>
+          <value>Send</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>多项发送</key>
+          <value>Multiple send</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>删除选中项</key>
+          <value>Delete selected item</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>发送选中项</key>
+          <value>Send selected items</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>自动回复</key>
+          <value>Automatic response</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>开启自动回复</key>
+          <value>Turn on automatic reply</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>选择配置文件</key>
+          <value>Select profile</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>导出模板文件</key>
+          <value>Export template file</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>Local IP port：</key>
+          <value>Local IP port：</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>Remote IP port：</key>
+          <value>Remote IP port：</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>Hex Send</key>
+          <value>Hex Send</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>Add CRC16 check </key>
+          <value>Add CRC16 check </value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>Automatic delivery(ms)</key>
+          <value>Automatic delivery(ms)</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>Send</key>
+          <value>Send</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>Delete selected item</key>
+          <value>Delete selected item</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>Send selected items</key>
+          <value>Send selected items</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>Turn on automatic reply</key>
+          <value>Turn on automatic reply</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>Select profile</key>
+          <value>Select profile</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>Export template file</key>
+          <value>Export template file</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>Single send</key>
+          <value>Single send</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>Multiple send</key>
+          <value>Multiple send</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>Automatic response</key>
+          <value>Automatic response</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>Clear receiving area</key>
+          <value>Clear receiving area</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>Hex receiving</key>
+          <value>Hex receiving</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>Show send and receive</key>
+          <value>Show send and receive</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>Save and receive</key>
+          <value>Save and receive</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>Path Selection</key>
+          <value>Path Selection</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>Port：</key>
+          <value>Port：</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>Baud：</key>
+          <value>Baud：</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>Signal state</key>
+          <value>Signal state</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>Serial port</key>
+          <value>Serial port</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>Clear count</key>
+          <value>Clear count</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>选择</key>
+          <value>choose</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>发送数据</key>
+          <value>send data</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>操作</key>
+          <value>operate</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>回车换行</key>
+          <value>Carriage return</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>SUM校验</key>
+          <value>SUM check</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>CRC校验</key>
+          <value>CRC check</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>发送延迟</key>
+          <value>Send delay</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>备注</key>
+          <value>Remark</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>序号</key>
+          <value>Serial number</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>接收数据</key>
+          <value>Receive data</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>回复数据</key>
+          <value>Reply data</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>回复延迟(ms)</key>
+          <value>Reply delay (ms)</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>HEX回复</key>
+          <value>HEX reply</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>回复加换行</key>
+          <value>Reply with line break</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>回复加校验</key>
+          <value>Reply plus verification</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>choose</key>
+          <value>choose</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>send data</key>
+          <value>send data</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>operate</key>
+          <value>operate</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>Carriage return</key>
+          <value>Carriage return</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>SUM check</key>
+          <value>SUM check</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>CRC check</key>
+          <value>CRC check</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>Send delay</key>
+          <value>Send delay</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>Remark</key>
+          <value>Remark</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>Serial number</key>
+          <value>Serial number</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>Receive data</key>
+          <value>Receive data</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>Reply data</key>
+          <value>Reply data</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>Reply delay (ms)</key>
+          <value>Reply delay (ms)</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>HEX reply</key>
+          <value>HEX reply</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>Reply with line break</key>
+          <value>Reply with line break</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>Reply plus verification</key>
+          <value>Reply plus verification</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>已停止</key>
+          <value>Has stopped</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>（提示：双击文本框更改接收状态）</key>
+          <value>(Tip: Double-click the text box to change the receiving state)</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>接收区：已接收{0}字节，接收自动保存[{1}]{2}</key>
+          <value>Received area: received {0} bytes, received automatically save [{1}]{2}</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>发送区</key>
+          <value>Send area</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>发送区：已发送{0}字节,发送速率{1}byte/s</key>
+          <value>Sending area: {0} bytes have been sent at {1}byte/s</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>打开连接</key>
+          <value>Open the connection</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>循环发送</key>
+          <value>Cycle to send</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>WIT-COM调试助手</key>
+          <value>WIT-COM Debugging assistant</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>2019年08月31日 12:13:15</key>
+          <value>2019年08月31日 12:13:15</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>串行端口调试助手</key>
+          <value>Serial port debugger</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>{0}年{1}月{2}日 {3}:{4}:{5}</key>
+          <value>{0}/{1}/{2} {3}:{4}:{5}</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>关闭连接</key>
+          <value>Close the connection</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>成功打开连接</key>
+          <value>Connection successfully opened</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>允许</key>
+          <value>allow</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>接收区：已接收{0}字节，接收自动保存[{1}]，接收状态[{2}]</key>
+          <value>Receiving area: received {0} bytes, received automatically save [{1}], received state [{2}]</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>打开</key>
+          <value>Open the</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>连接关闭成功</key>
+          <value>Connection closed successfully</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>连接已关闭</key>
+          <value>Connection closed</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>发&lt;-：</key>
+          <value>Send&lt;-：</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>收-&gt;：</key>
+          <value>Received-&gt;：</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>接收数据路径选择</key>
+          <value>Receive data path selection</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>文本文件|*.txt</key>
+          <value>Text file|*.txt</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>连接打开失败</key>
+          <value>Connection opening failed</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>语言(_L)</key>
+          <value>Language(_L)</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>中文</key>
+          <value>Chinese</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>英文</key>
+          <value>English</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>切换语言软件将重启</key>
+          <value>If you change the language, the software restarts</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>是否切换语言</key>
+          <value>Whether to switch languages</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>Chinese</key>
+          <value>Chinese</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>English</key>
+          <value>English</value>
+        </LanguageDic>
+        <LanguageDic>
+          <key>Language(_L)</key>
+          <value>Language(_L)</value>
+        </LanguageDic>
+      </languageDicList>
+    </LanguageGroup>
+    <LanguageGroup>
+      <groupName>default</groupName>
+      <groupDesc>系统默认创建的分组</groupDesc>
+      <languageDicList>
+        <LanguageDic>
+          <key>发送</key>
+          <value>Send</value>
+        </LanguageDic>
+      </languageDicList>
+    </LanguageGroup>
+  </languageGroupList>
+</LanguageGroupManager>
